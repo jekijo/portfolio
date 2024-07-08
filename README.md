@@ -40,20 +40,20 @@ engineers and data scientists to help work on the 311 Data project. More informa
 - Using an open sourse neurophysiology dataset that contains spike activity from neural population recordings, I trained a vanilla pytorch neural network to predict movements from the neural data.
 - The orignial neural network expressed unsatisfactory performance, running into the vanishing gradient problem. The next step for this project will be to use an LSTM to attempt to boost performance.
 - Future additions to this project will also include feature extraction of local field potential signals to decode movements.
-<br />
+- 
 #### Steam Review Sentiment Analysis
 - Worked with a team to use supervised & unsupervised learning methods to analyze and predict Steam game reviews’ sentiment.
 - Used supervised methods (logistic regression, random forest, SVM, multinomial naive Bayes) to predict whether a review was positive or negative.
 - Used unsupervised methods (LSA andLDA) to extract the language features most predictive of review sentiment.
 - The findings from this project can be viewed in the [final report](assets/Steam_Final_Report.pdf).
-<br />
+
 #### College Football Player Transfer Predictions
 - Created a website that uses supervised learning models to predict the probability that any given player will enter the transfer portal.
 - Users enter their query on the website (built using React), which returns the outcome probabilities from pre-trained models (logistic regression, random forest, gradient boosting).
 - The findings from this project can be viewed in the [final report](assets/CFB_Report.pdf).
 - Use the [website](https://wolverines-capstone.vercel.app/) for yourself!
 - Github [link](https://github.com/raulmartinez1855/wolverines-capstone)
-<br />
+
 #### NBA Draft Pick Success Analysis
 - As part of a team, analyzed how the draft position of NBA players relates to individual and team success. Used multiple datasets to gain insight into team and player accolades dating back to the late 90’s.
 - Used Pandas to analyze data and Matplotlib to visualize findings in a Google Colab environment. Created a presentation to explain the data, our methods, and our findings.

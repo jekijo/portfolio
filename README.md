@@ -40,7 +40,7 @@ engineers and data scientists to help work on the 311 Data project. More informa
 - Using an open sourse neurophysiology dataset that contains spike activity from neural population recordings, I trained a vanilla pytorch neural network to predict movements from the neural data.
 - The orignial neural network expressed unsatisfactory performance, running into the vanishing gradient problem. The next step for this project will be to use an LSTM to attempt to boost performance.
 - Future additions to this project will also include feature extraction of local field potential signals to decode movements.
-- 
+
 #### Steam Review Sentiment Analysis
 - Worked with a team to use supervised & unsupervised learning methods to analyze and predict Steam game reviews’ sentiment.
 - Used supervised methods (logistic regression, random forest, SVM, multinomial naive Bayes) to predict whether a review was positive or negative.

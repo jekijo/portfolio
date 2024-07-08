@@ -27,7 +27,7 @@ GPA: 3.9<br />
 <br />
 ## Experience 
 #### Hack for LA 
-#####August 2022 - January 2023<br /><br />
+##### August 2022 - January 2023<br /><br />
 After graduating from undergrad, I spent a year gaining additional software engineering skills to build on a few classes I had taken. I then joined a group of volunteer 
 engineers and data scientists to help work on the 311 Data project. More information about this org can be found [here](https://www.hackforla.org/projects/311-data).<br />
 ##### Key contributions:<br />

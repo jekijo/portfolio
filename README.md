@@ -13,7 +13,7 @@ Data Visualization- Matplotlib, Seaborn, Altair<br />
 Data Cleaning<br />
 SQL- PostgreSQL<br />
 Git/Github<br />
-<br />
+
 ## Education
 University of Michigan | AnnArbor, MI<br />
 Master’s of Science in Applied Data Science<br />
@@ -34,7 +34,7 @@ engineers and data scientists to help work on the 311 Data project. More informa
 - Worked with the tech lead to create a caching system that improved data loading times when rendering 311 requests on the site's map.
 - Collaborated with product and design members to develop, implement and refine new and existing features for the next launch of the product. Some of these features included loading animations during data retrieval, adding new endpoints to the front and backend, and implenting new website designs to prepare for the next launch of the product website.
 - Utilized React, JavaScript, Python, FastAPI, Docker, and Github.
-<br /><br />
+
 ### Projects
 #### Neural Decoding of Movement (Ongoing)
 - Using an open sourse neurophysiology dataset that contains spike activity from neural population recordings, I trained a vanilla pytorch neural network to predict movements from the neural data.

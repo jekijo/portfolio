@@ -1,4 +1,4 @@
-# Data Science and Machine Learning
+
 
 I am a Data Scientist graduate with an educational background in psychology and neuroscience. In addition to my two degrees I have 
 multiple projects showcasing the skills I've acquired, as well as new projects that I continue to work on. You can read more about

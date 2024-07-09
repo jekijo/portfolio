@@ -1,5 +1,4 @@
 title: Killen Jones
-logo: /assets/neuralheader.png
 show_download: false
-# theme: jekyll-theme-slate
-theme: minima
+theme: jekyll-theme-slate
+# theme: minima

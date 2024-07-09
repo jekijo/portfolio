@@ -2,8 +2,8 @@
 
 I am a Data Scientist graduate with an educational background in psychology and neuroscience. In addition to my two degrees I have 
 multiple projects showcasing the skills I've acquired, as well as new projects that I continue to work on. You can read more about
-my projects and expereinces here! Along with descriptions, I've also included any report papers that were written proceeding 
-the completeion of team based projects.
+my projects and experiences here! Along with descriptions, I've also included any report papers that were written proceeding 
+the completion of team based projects.
 
 ### Technical Skills:
 Python- NumPy, Pandas, Scikit-learn, PyTorch, NLTK<br />
@@ -15,7 +15,7 @@ SQL- PostgreSQL<br />
 Git/Github<br />
 
 ## Education
-University of Michigan | AnnArbor, MI<br />
+University of Michigan | Ann Arbor, MI<br />
 Master’s of Science in Applied Data Science<br />
 Jan 2023- May 2024<br />
 GPA: 3.961<br />
@@ -32,13 +32,13 @@ After graduating from undergrad, I spent a year gaining additional software engi
 engineers and data scientists to help work on the 311 Data project. More information about this org can be found [here](https://www.hackforla.org/projects/311-data).<br />
 ##### Key contributions:<br />
 - Worked with the tech lead to create a caching system that improved data loading times when rendering 311 requests on the site's map.
-- Collaborated with product and design members to develop, implement and refine new and existing features for the next launch of the product. Some of these features included loading animations during data retrieval, adding new endpoints to the front and backend, and implenting new website designs to prepare for the next launch of the product website.
+- Collaborated with product and design members to develop, implement and refine new and existing features for the next launch of the product. Some of these features included loading animations during data retrieval, adding new endpoints to the front and backend, and implementing new website designs to prepare for the next launch of the product website.
 - Utilized React, JavaScript, Python, FastAPI, Docker, and Github.
 
 ### Projects
 #### Neural Decoding of Movement (Ongoing)
-- Using an open sourse neurophysiology dataset that contains spike activity from neural population recordings, I trained a vanilla pytorch neural network to predict movements from the neural data.
-- The orignial neural network expressed unsatisfactory performance, running into the vanishing gradient problem. The next step for this project will be to use an LSTM to attempt to boost performance.
+- Using an open source neurophysiology dataset that contains spike activity from neural population recordings, I trained a vanilla pytorch neural network to predict movements from the neural data.
+- The original neural network expressed unsatisfactory performance, running into the vanishing gradient problem. The next step for this project will be to use an LSTM to attempt to boost performance.
 - Future additions to this project will also include feature extraction of local field potential signals to decode movements.
 
 #### Steam Review Sentiment Analysis
@@ -51,7 +51,7 @@ engineers and data scientists to help work on the 311 Data project. More informa
 - Created a website that uses supervised learning models to predict the probability that any given player will enter the transfer portal.
 - Users enter their query on the website (built using React), which returns the outcome probabilities from pre-trained models (logistic regression, random forest, gradient boosting).
 - The findings from this project can be viewed in the [final report](assets/CFB_Report.pdf).
-- Use the [website](https://wolverines-capstone.vercel.app/) for yourself!
+- Watch a demo video [here](https://www.youtube.com/watch?v=MR8CaqypfQc)
 - Github [link](https://github.com/raulmartinez1855/wolverines-capstone)
 
 #### NBA Draft Pick Success Analysis

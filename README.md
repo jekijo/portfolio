@@ -38,14 +38,14 @@ progress on this project frequently! Here is a [link](https://elifesciences.org/
 Worked as part of a team that pulled data from the Steam API to train supervised models for sentiment classification tasks, and unsupervised models for sentiment analysis tasks. For our supervised model tasks, we trained multiple different types of classification models, including logistic regression, random forest, SVM, and multinomial Naive Bayes, to read in video game review comments and evaluate if they were positive or negative. Once our data was cleaned and properly combined, it was vectorized using both TF-IDF, as well as CountVectorization and passed through each model for training. We were then able to distinguish the best model to then perform feature importance analysis, and hyperparameter sensitivity analysis to validate the robustness of our classification model.<br />
 For the unsupervised model task, we dropped unnecessary data features, and utilized Word2Vec, Latent Semantic Analysis (LSA), and Latent Dirichlet Allocation (LDA) to focus on the word content within each review. We used these methods to better understand the relationship particular words or topics had with the positivity or negativity of a given game review.<br />
 <br />
-You can read a more detailed report in the link above, where we go in depth on our feature engineering, modeling methods, and results of the project.
+You can read a more detailed report in the link above, where we go in depth on our feature engineering, modeling methods, and results of the project.<br /> 
 <br />
 ### College Football Player Transfer Predictions
 ##### [Full Report](assets/CFB_Report.pdf) 
 Using all open source data found from multiple sources, our team of three created a website that utilized supervised learning models to predict the probability that any given college football player would enter the transfer portal. We combined various player statistics, team statistics, coaching, and recruiting information into one large dataset. Due to class imbalances, we used SMOTE to oversample the minority class to improve model performance.<br />
-From here, multiple different models were trained on various iterations of the data to cover offensive positions as well as defense.<br /> 
-You can read a more detailed report in the link above, where we go in depth to our methods, evaluations, impacts, and architecture of creating this project.<br /> 
-You can also view a quick video demo [here](https://www.youtube.com/watch?v=MR8CaqypfQc).<br /> 
+From here, multiple different models were trained on various iterations of the data to cover offensive positions as well as defense.<br /> <br /> 
+You can read a more detailed report in the link above, where we go in depth to our methods, evaluations, impacts, and architecture of creating this project.<br /> <br /> 
+You can also view a quick video demo [here](https://www.youtube.com/watch?v=MR8CaqypfQc).<br /> <br /> 
 Github [link](https://github.com/raulmartinez1855/wolverines-capstone)
 
 <br />

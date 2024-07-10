@@ -35,15 +35,19 @@ progress on this project frequently! Here is a [link](https://elifesciences.org/
 
 ### Steam Review Sentiment Analysis
 ##### [Full Report](assets/Steam_Final_Report.pdf)
-Worked as part of a team that pulled data from the Steam API to train supervised models for sentiment classification tasks, and unsupervised models for sentiment analysis tasks. For our supervised model tasks, we trained multiple different types of classification models, including logistic regression, random forest, SVM, and multinomial Naive Bayes, to read in video game review comments and evaluate if they were positive or negative. Once our data was cleaned and properly combined, it was vectorized using both TF-IDF, as well as CountVectorization and passed through each model for training. We were then able to distinguish the best model to then perform feature importance analysis, and hyperparameter sensitivity analysis to validate the robustness of our classification model. Below are some visualizations regarding this section of the project.
+Worked as part of a team that pulled data from the Steam API to train supervised models for sentiment classification tasks, and unsupervised models for sentiment analysis tasks. For our supervised model tasks, we trained multiple different types of classification models, including logistic regression, random forest, SVM, and multinomial Naive Bayes, to read in video game review comments and evaluate if they were positive or negative. Once our data was cleaned and properly combined, it was vectorized using both TF-IDF, as well as CountVectorization and passed through each model for training. We were then able to distinguish the best model to then perform feature importance analysis, and hyperparameter sensitivity analysis to validate the robustness of our classification model. Below are some visualizations regarding this section of the project.<br />
 
-![](/assets/steam_performance.png)<br />
+| ![](/assets/steam_performance.png) | 
+| :--: |
 | *This table shows the key metrics for model performance across the trained models.* |<br />
-![](/assets/feature_importance.png)<br />
+| ![](/assets/feature_importance.png) |
+| :--: |
 | *Here we can see the feature importance of key data features.* |<br />
-![](/assets/sens_analysis.png)<br />
+| ![](/assets/sens_analysis.png) |
+| :--: |
 | *This chart shows the results of sensitivity analysis done on the random forest classifier.* |<br />
 
+<br />
 
 For the unsupervised model task, we dropped unnecessary data features, and utilized Word2Vec, Latent Semantic Analysis (LSA), and Latent Dirichlet Allocation (LDA) to focus on the word content within each review. We used these methods to better understand the relationship particular words or topics had with the positivity or negativity of a given game review. Below are some example visualizations from our project that highlight some of our findings.<br />
 

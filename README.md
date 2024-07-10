@@ -37,23 +37,23 @@ progress on this project frequently! Here is a [link](https://elifesciences.org/
 ##### [Full Report](assets/Steam_Final_Report.pdf)
 Worked as part of a team that pulled data from the Steam API to train supervised models for sentiment classification tasks, and unsupervised models for sentiment analysis tasks. For our supervised model tasks, we trained multiple different types of classification models, including logistic regression, random forest, SVM, and multinomial Naive Bayes, to read in video game review comments and evaluate if they were positive or negative. Once our data was cleaned and properly combined, it was vectorized using both TF-IDF, as well as CountVectorization and passed through each model for training. We were then able to distinguish the best model to then perform feature importance analysis, and hyperparameter sensitivity analysis to validate the robustness of our classification model. Below are some visualizations regarding this section of the project.<br />
 
-| ![](/assets/steam_performance.png) | 
+![](/assets/steam_performance.png)<br />
 This table shows the key metrics for model performance across the trained models.<br /><br />
 
-| ![](/assets/feature_importance.png) |
+![](/assets/feature_importance.png)<br />
 Here we can see the feature importance of key data features.<br /><br />
 
-| ![](/assets/sens_analysis.png) |
+![](/assets/sens_analysis.png)<br />
 This chart shows the results of sensitivity analysis done on the random forest classifier.<br />
 
 <br />
 
 For the unsupervised model task, we dropped unnecessary data features, and utilized Word2Vec, Latent Semantic Analysis (LSA), and Latent Dirichlet Allocation (LDA) to focus on the word content within each review. We used these methods to better understand the relationship particular words or topics had with the positivity or negativity of a given game review. Below are some example visualizations from our project that highlight some of our findings.<br />
 
-| ![](/assets/chi_squared.png) |
+![](/assets/chi_squared.png)<br />
 Here we can see the most influential words of all review genres ordered by Chi-Squared score value. The terms "best" or some form of "10/10" seem to be amongst the strongest influencers for review sentiment, most likely in the positive direction.<br /><br />
 
-| ![](/assets/intertopic.png) |
+![](/assets/intertopic.png)<br />
 We were also able to use LDA to section reviewers into three different groups. Group one were mainly positive reviwers, group two had mixed feelings, and group three were mainly negative. In this chart you can see the term frequency for certain words based on the chosen group (group three), compared to the overall term frequency of all reviews.<br /><br />
 
 You can read a more detailed report in the link above, where we go in depth on our feature engineering, modeling methods, and results of the project.

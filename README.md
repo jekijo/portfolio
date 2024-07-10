@@ -8,7 +8,7 @@ multiple projects showcasing the skills I've acquired, as well as new projects t
 my projects and experiences here! Along with descriptions, I've also included any report papers that were written proceeding 
 the completion of team based projects.
 
-## Experience 
+### Experience 
 #### Hack for LA 
 After graduating from undergrad, I spent a year gaining additional software engineering skills to build on a few classes I had taken. I then joined a group of volunteer engineers and data scientists to help on the 311 Data project, where I
 contributed as a full stack engineer to help implement new features to the 311 Data website for roughly 6 months. More information about this org can be found [here](https://www.hackforla.org/projects/311-data).<br />
@@ -29,10 +29,10 @@ progress on this project frequently! Here is a [link](https://elifesciences.org/
 ##### [Full Report](assets/CFB_Report.pdf) 
 Using all open source data found from multiple sources, our team of three created a website that utilized supervised learning models to predict the probability that any given college football player would enter the transfer portal. We combined various player statistics, team statistics, coaching, and recruiting information into one large dataset. Due to class imbalances, we used SMOTE to oversample the minority class to improve model performance.<br />
 From here, multiple different models were trained on various iterations of the data to cover offensive positions as well as defense. Below you can see the tables detailing evaluation results for each model compared to a dummy classifier, as well as the average probability returned for the positive and negative class for each model.
-###### Position Group Model Performance
-image
-###### Average Model Probability
-image
+##### Position Group Model Performance
+[](assets/CFB_model_performance.png)
+##### Average Model Probability
+[](assets/CFB_probability.png)
 You can read a more detailed report in the link above, where we go in depth to our methods, evaluations, impacts, and architecture of creating this project.<br /> 
 You can also view a quick video demo [here](https://www.youtube.com/watch?v=MR8CaqypfQc).<br /> 
 Github [link](https://github.com/raulmartinez1855/wolverines-capstone)

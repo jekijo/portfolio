@@ -32,7 +32,7 @@ From here, multiple different models were trained on various iterations of the d
 ##### Position Group Model Performance
 ![](/assets/CFB_model_performance.png)
 ##### Average Model Probability
-![](/assets/CFB_probability.png)
+![](/assets/CFB_probability.png)<br /> 
 You can read a more detailed report in the link above, where we go in depth to our methods, evaluations, impacts, and architecture of creating this project.<br /> 
 You can also view a quick video demo [here](https://www.youtube.com/watch?v=MR8CaqypfQc).<br /> 
 Github [link](https://github.com/raulmartinez1855/wolverines-capstone)

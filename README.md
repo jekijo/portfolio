@@ -30,9 +30,9 @@ progress on this project frequently! Here is a [link](https://elifesciences.org/
 Using all open source data found from multiple sources, our team of three created a website that utilized supervised learning models to predict the probability that any given college football player would enter the transfer portal. We combined various player statistics, team statistics, coaching, and recruiting information into one large dataset. Due to class imbalances, we used SMOTE to oversample the minority class to improve model performance.<br />
 From here, multiple different models were trained on various iterations of the data to cover offensive positions as well as defense. Below you can see the tables detailing evaluation results for each model compared to a dummy classifier, as well as the average probability returned for the positive and negative class for each model.
 ##### Position Group Model Performance
-[](assets/CFB_model_performance.png)
+![](/assets/CFB_model_performance.png)
 ##### Average Model Probability
-[](assets/CFB_probability.png)
+![](/assets/CFB_probability.png)
 You can read a more detailed report in the link above, where we go in depth to our methods, evaluations, impacts, and architecture of creating this project.<br /> 
 You can also view a quick video demo [here](https://www.youtube.com/watch?v=MR8CaqypfQc).<br /> 
 Github [link](https://github.com/raulmartinez1855/wolverines-capstone)

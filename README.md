@@ -16,8 +16,15 @@ the completion of team based projects.
 
 ## Experience 
 ### Hack for LA 
-After graduating from undergrad, I spent a year gaining additional software engineering skills to build on a few classes I had taken. I then joined a group of volunteer engineers and data scientists to help on the 311 Data project, where I
-contributed as a full stack engineer to help implement new features to the 311 Data website for roughly 6 months. More information about this org can be found [here](https://www.hackforla.org/projects/311-data).<br />
+After graduating from undergrad, I spent a year gaining additional software engineering skills to build on a few classes I had taken. I then joined a group of volunteer engineers and data scientists to help on the 311 Data project, and 
+helped add new web features for around six months. This project was a website dedicated to providing information about public 311 requests in the city of Los Angeles. I worked closely with the software engineering team, data science teams, 
+and UI/UX teams. I contributed in multiple areas, some of the key contributions being:<br />
+<li>
+  Added a caching system that improved the loading times of 311 request data onto the live city map.
+  Worked with UI/UX to add new front end features such as animated loading bars during data loading, new website styles (fonts, colors, etc.), and new endpoints for additional pages on both the front and back end.
+  Helped clean the code base, which included changing some class based components in React to function based components, and updating outdated files as the team prepared for the next launch of the product. 
+</li>
+More information about this org can be found [here](https://www.hackforla.org/projects/311-data).<br />
 
 <br />
 
